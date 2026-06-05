@@ -1,0 +1,1 @@
+export type SettingsData = any;

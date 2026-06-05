@@ -1,0 +1,6 @@
+{
+  "appId": "com.universal.fileviewer",
+  "appName": "Universal File Viewer",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

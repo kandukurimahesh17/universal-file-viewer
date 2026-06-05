@@ -1,0 +1,6 @@
+{
+  "name": "Universal File Viewer",
+  "description": "An all-in-one suite to open and view PDFs, DOCX, media, archives, and code, along with image conversion and compression tools. Adheres to Google Material Design aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
